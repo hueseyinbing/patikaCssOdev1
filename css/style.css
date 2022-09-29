@@ -1,44 +1,17 @@
-/* Layout */
-
-body {
-    background-color: black;
-    font-family: Arial, Helvetica, sans-serif;
+.bg-dark{
+    background-color: rgba(0, 0, 0, 0.553);
+    color: beige;
+    text-decoration: none;
 }
 
-header {
-    text-align: center;
-    border: 8px outset silver;
-    color: brown;
-    background-color: gold;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-h1 {
-    font-size: 36px;
-}
-
-h6 {
-    font-size: 18px;
-}
-
-p1 {
-    font-style: italic;
-}
-
-article {
+p{
     text-indent: 20px;
 }
 
-section {
-    background-color: silver;
-    border: 4px outset silver;
+body{
+    padding: 10px;
 }
 
-footer {
-    font-size: 12px;
-    background-color: brown;
-    border: 8px outset brown;
-    text-align: center;
-    font-style: oblique;
-    font-family: 'Times New Roman', Times, serif;
+.container{
+    background-color: #E9ECEF;
 }
